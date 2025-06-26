@@ -4,7 +4,7 @@ The primary aim of this project is to enhance underwater images to make them sui
 
 - Python 3.7 or higher
 
-### 📦 Install dependencies
+### 📦 Install dependencies and Run
 
 Create a virtual environment (optional but recommended):
 
@@ -17,6 +17,6 @@ source venv/bin/activate
 
 pip install pillow matplotlib numpy streamlit opencv-python-headless plotly pandas scikit-image scipy
 
-### ▶️ Run the App
-```bash
+▶️ Run the App
+
 streamlit run app.py
