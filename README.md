@@ -18,5 +18,5 @@ source venv/bin/activate
 pip install pillow matplotlib numpy streamlit opencv-python-headless plotly pandas scikit-image scipy
 
 ### ▶️ Run the App
-
+```bash
 streamlit run app.py
